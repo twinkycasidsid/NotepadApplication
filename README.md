@@ -22,8 +22,8 @@ A simple and user-friendly Android app that allows users to create, view, edit, 
   - Enable dark mode support.  
 
 
-**Author**
-♡ ̆̈✧˖° Twinky Casidsid ♡ ̆̈✧˖°
+**Author:**   ♡ ̆̈✧˖° Twinky Casidsid ♡ ̆̈✧˖°
+
 
 
 
